@@ -7,6 +7,6 @@
 Install: Open the zip file and drag the folder into your World of Warcraft\_forever_\Interface\AddOns folder
 
 SoLAchievements has a minimap button(can be removed in settings) and is now natively added into WoWForevers Collections Menu
-Press Shift+P to open the panel or click the horseshow icon at the bottom on your menu bar. 
+Press Shift+P to open the panel or click the horseshoe icon at the bottom on your menu bar. 
 The new achievements tab should now be added underneath the appearances tab. 
 
